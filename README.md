@@ -5,7 +5,7 @@
 
 
 
-# 📊 Projeto Bellabeat – Google Data Analytics
+# Projeto Bellabeat – Google Data Analytics
 
 
 ![Notion](https://img.shields.io/badge/Notion-Projeto%20Bellabeat-blue?logo=notion&style=flat)
@@ -30,7 +30,7 @@ Este projeto faz parte do curso **Google Data Analytics Professional Certificate
 ](https://unique-onion-409.notion.site/Projeto-Bellabeat-Google-Data-Analytics-205ae8705fee80f8b576d2fead93a216?source=copy_link)
 
 
-## 📁 Etapas do projeto
+**Etapas do projeto**
 - Perguntar
 - Preparar
 - Processar
@@ -40,7 +40,7 @@ Este projeto faz parte do curso **Google Data Analytics Professional Certificate
 
 
 
-## 🛠️ Ferramentas utilizadas
+**Ferramentas utilizadas**
 - Google Sheets
 - Power BI
 - Notion
@@ -49,7 +49,7 @@ Este projeto faz parte do curso **Google Data Analytics Professional Certificate
 
 
 
-## 📫 Contato
+##📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20Profissional-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/seu-perfil)  
 http://www.linkedin.com/in/larissa-dos-santos-silva-11a285332
