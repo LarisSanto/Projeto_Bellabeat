@@ -70,7 +70,7 @@ Os insights permitem à empresa:
 [Projeto Bellabeat – Notion](https://www.notion.so/Projeto-Bellabeat-Google-Data-Analytics-205ae8705fee80f8b576d2fead93a216)
 
 
-### Dashboard 
+### Dashboard: 
 
 <img width="721" height="411" alt="image" src="https://github.com/user-attachments/assets/1b218f07-5994-42dc-ad80-f4aea30e9dd3" />
 
