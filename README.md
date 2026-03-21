@@ -4,61 +4,80 @@
 </p> 
 
 
+# Bellabeat – Análise de Dados para Estratégias de Marketing
 
-# Projeto Bellabeat – Google Data Analytics
+<br>
 
-
-![Notion](https://img.shields.io/badge/Notion-Projeto%20Bellabeat-blue?logo=notion&style=flat)
-![Google Data Analytics](https://img.shields.io/badge/Google-Data%20Analytics-blue?logo=google&style=flat)
-
+Projeto de análise de dados focado na identificação de padrões de comportamento de usuários de dispositivos fitness para geração de insights estratégicos.
 
 
-## Sobre Mim
+### Problema de Negócio
 
-Sou **Larissa dos Santos Silva**, apaixonada por dados, BI e storytelling. Aqui compartilho os principais projetos que desenvolvi durante minha trajetória para a área de dados. 
-
-
-
-Este projeto faz parte do curso **Google Data Analytics Professional Certificate** e tem como objetivo analisar dados de uso de dispositivos fitness da empresa **Bellabeat**, com foco na tomada de decisões baseadas em dados.
+A Bellabeat, empresa do setor de tecnologia fitness, busca entender o comportamento de seus usuários para aprimorar estratégias de marketing e aumentar o engajamento.
 
 
+### Objetivo
+
+Analisar dados de dispositivos inteligentes para identificar padrões de uso e gerar insights que apoiem decisões estratégicas da empresa.
 
 
-🔗 **Acesse o projeto completo no Notion:**  
+### Principais Insights
 
-[[Projeto Bellabeat – Notion](https://www.notion.so/Projeto-Bellabeat-Google-Data-Analytics-205ae8705fee80f8b576d2fead93a216)
-](https://unique-onion-409.notion.site/Projeto-Bellabeat-Google-Data-Analytics-205ae8705fee80f8b576d2fead93a216?source=copy_link)
-
-
-**Etapas do projeto**
-- Perguntar
-- Preparar
-- Processar
-- Analisar
-- Compartilhar
-- Agir
+- Usuários mais ativos apresentam maior consistência no uso dos dispositivos  
+- Há variação significativa nos níveis de atividade ao longo da semana  
+- O sono e a atividade física estão diretamente relacionados ao engajamento  
+- Usuários com maior regularidade apresentam melhor retenção  
 
 
+### Solução Desenvolvida
 
-**Ferramentas utilizadas**
-- Google Sheets
-- Power BI
-- Notion
+O projeto foi estruturado seguindo o processo de análise de dados:
 
-
-
-
-
-##📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20Profissional-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/seu-perfil)  
-http://www.linkedin.com/in/larissa-dos-santos-silva-11a285332
-✉️ larissa.santos.silva9902@gmail.com
+- Perguntar: definição do problema de negócio  
+- Preparar: coleta e organização dos dados  
+- Processar: limpeza e tratamento dos dados  
+- Analisar: exploração e identificação de padrões  
+- Compartilhar: criação de visualizações  
+- Agir: recomendações estratégicas  
 
 
----
+### Análise de Dados
 
-<p align="center">Feito com 🖤 por Larissa dos Santos Silva</p>
+- Análise de atividade diária (passos, calorias)  
+- Análise de padrões de sono  
+- Identificação de comportamento dos usuários  
+- Criação de visualizações no Power BI  
+
+
+### Impacto de Negócio
+
+Os insights permitem à empresa:
+
+- Desenvolver campanhas de marketing mais direcionadas  
+- Aumentar o engajamento dos usuários  
+- Melhorar estratégias de retenção  
+- Apoiar decisões estratégicas baseadas em dados  
+
+### Tecnologias Utilizadas
+
+- Google Sheets  
+- Power BI  
+- Notion  
+
+
+### Acesse o projeto completo no Notion:
+
+[Projeto Bellabeat – Notion](https://www.notion.so/Projeto-Bellabeat-Google-Data-Analytics-205ae8705fee80f8b576d2fead93a216)
+
+
+### Dashboard 
+
+<img width="721" height="411" alt="image" src="https://github.com/user-attachments/assets/1b218f07-5994-42dc-ad80-f4aea30e9dd3" />
+
+<br>
+<br>
+
+
 
 <!-- Capa animada inferior -->
 <p align="center">
