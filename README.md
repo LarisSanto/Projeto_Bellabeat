@@ -79,6 +79,9 @@ Os insights permitem à empresa:
 
 
 
+
+
+
 <!-- Capa animada inferior -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2F2F2F&height=120&section=footer" alt="Capa animada inferior" width="1000" />
